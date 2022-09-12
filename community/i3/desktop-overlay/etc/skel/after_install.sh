@@ -6,7 +6,7 @@ if [ "$(whoami)" == "cryptopian" ]; then
   exit 0
 fi
 sudo pacman-mirrors --country United_Kingdom && sudo pacman -Syyu
-yay -S slack-desktop google-chrome openvpn-update-systemd-resolved visual-studio-code-bin
+yay -S slack-desktop google-chrome openvpn-update-systemd-resolved visual-studio-code-bin siji-ttf
 sudo systemctl enable systemd-resolved.service
 sudo systemctl start systemd-resolved.service
 chsh -s /usr/bin/zsh
