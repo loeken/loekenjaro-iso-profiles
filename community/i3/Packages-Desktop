@@ -188,3 +188,4 @@ openvpn
 systemd-resolvconf
 patch
 ttf-meslo-nerd-font-powerlevel10k
+feh
