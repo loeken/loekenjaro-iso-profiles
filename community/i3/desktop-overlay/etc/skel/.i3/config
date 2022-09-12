@@ -38,7 +38,7 @@ bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun
 # launch categorized menu
 bindsym $mod+z exec --no-startup-id morc_menu
 
-exec_always --no-startup-id /usr/bin/feh --bg-scale '/home/loeken/Downloads/bg.png'
+exec_always --no-startup-id /usr/bin/feh --bg-scale '/usr/share/backgrounds/i3_default_background.jpg'
 exec_always launch_polybar
 ################################################################################################
 ## sound-section - DO NOT EDIT if you wish to automatically upgrade Alsa -> Pulseaudio later! ##
