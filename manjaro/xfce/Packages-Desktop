@@ -32,7 +32,6 @@ libdvdcss
 manjaro-pipewire
 pulseaudio-bluetooth
 pulseaudio-ctl
-pulseaudio-zeroconf
 
 ## Connect Packages
 android-tools
