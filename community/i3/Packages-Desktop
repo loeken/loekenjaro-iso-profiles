@@ -20,7 +20,6 @@ clipit
 dfc
 dmidecode
 >extra downgrade
-epdfview
 fakeroot
 >extra ffmpeg
 >extra ffmpegthumbnailer
@@ -36,7 +35,6 @@ flex
 gnome-keyring
 >extra gparted
 groff
-grub-theme-manjaro-dev
 >extra gst-libav
 >extra gst-plugins-bad
 >extra gst-plugins-base
